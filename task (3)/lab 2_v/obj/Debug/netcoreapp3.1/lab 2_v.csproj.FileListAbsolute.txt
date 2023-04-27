@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\visualc#\ass\d2\lab 2_v\bin\Debug\netcoreapp3.1\lab 2_v.exe
+C:\Users\USER\Desktop\visualc#\ass\d2\lab 2_v\bin\Debug\netcoreapp3.1\lab 2_v.deps.json
+C:\Users\USER\Desktop\visualc#\ass\d2\lab 2_v\bin\Debug\netcoreapp3.1\lab 2_v.runtimeconfig.json
+C:\Users\USER\Desktop\visualc#\ass\d2\lab 2_v\bin\Debug\netcoreapp3.1\lab 2_v.runtimeconfig.dev.json
+C:\Users\USER\Desktop\visualc#\ass\d2\lab 2_v\bin\Debug\netcoreapp3.1\lab 2_v.dll
+C:\Users\USER\Desktop\visualc#\ass\d2\lab 2_v\bin\Debug\netcoreapp3.1\lab 2_v.pdb
+C:\Users\USER\Desktop\visualc#\ass\d2\lab 2_v\obj\Debug\netcoreapp3.1\lab 2_v.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\visualc#\ass\d2\lab 2_v\obj\Debug\netcoreapp3.1\lab 2_v.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\visualc#\ass\d2\lab 2_v\obj\Debug\netcoreapp3.1\lab 2_v.AssemblyInfo.cs
+C:\Users\USER\Desktop\visualc#\ass\d2\lab 2_v\obj\Debug\netcoreapp3.1\lab 2_v.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\visualc#\ass\d2\lab 2_v\obj\Debug\netcoreapp3.1\lab 2_v.dll
+C:\Users\USER\Desktop\visualc#\ass\d2\lab 2_v\obj\Debug\netcoreapp3.1\lab 2_v.pdb
+C:\Users\USER\Desktop\visualc#\ass\d2\lab 2_v\obj\Debug\netcoreapp3.1\lab 2_v.genruntimeconfig.cache
+C:\Users\USER\Desktop\visualc#\ass\d2\lab 2_v\obj\Debug\netcoreapp3.1\lab 2_v.csproj.AssemblyReference.cache

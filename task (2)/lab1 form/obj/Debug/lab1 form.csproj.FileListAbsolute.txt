@@ -1,0 +1,10 @@
+F:\visualc#\ass\d1 form\lab1 form\bin\Debug\lab1 form.exe.config
+F:\visualc#\ass\d1 form\lab1 form\bin\Debug\lab1 form.exe
+F:\visualc#\ass\d1 form\lab1 form\bin\Debug\lab1 form.pdb
+F:\visualc#\ass\d1 form\lab1 form\obj\Debug\lab1 form.csproj.AssemblyReference.cache
+F:\visualc#\ass\d1 form\lab1 form\obj\Debug\lab1_form.Form1.resources
+F:\visualc#\ass\d1 form\lab1 form\obj\Debug\lab1_form.Properties.Resources.resources
+F:\visualc#\ass\d1 form\lab1 form\obj\Debug\lab1 form.csproj.GenerateResource.cache
+F:\visualc#\ass\d1 form\lab1 form\obj\Debug\lab1 form.csproj.CoreCompileInputs.cache
+F:\visualc#\ass\d1 form\lab1 form\obj\Debug\lab1 form.exe
+F:\visualc#\ass\d1 form\lab1 form\obj\Debug\lab1 form.pdb
