@@ -1,0 +1,14 @@
+F:\visualc#\ass\zoo2\bin\Debug\netcoreapp3.1\zoo2.exe
+F:\visualc#\ass\zoo2\bin\Debug\netcoreapp3.1\zoo2.deps.json
+F:\visualc#\ass\zoo2\bin\Debug\netcoreapp3.1\zoo2.runtimeconfig.json
+F:\visualc#\ass\zoo2\bin\Debug\netcoreapp3.1\zoo2.runtimeconfig.dev.json
+F:\visualc#\ass\zoo2\bin\Debug\netcoreapp3.1\zoo2.dll
+F:\visualc#\ass\zoo2\bin\Debug\netcoreapp3.1\zoo2.pdb
+F:\visualc#\ass\zoo2\obj\Debug\netcoreapp3.1\zoo2.csproj.AssemblyReference.cache
+F:\visualc#\ass\zoo2\obj\Debug\netcoreapp3.1\zoo2.GeneratedMSBuildEditorConfig.editorconfig
+F:\visualc#\ass\zoo2\obj\Debug\netcoreapp3.1\zoo2.AssemblyInfoInputs.cache
+F:\visualc#\ass\zoo2\obj\Debug\netcoreapp3.1\zoo2.AssemblyInfo.cs
+F:\visualc#\ass\zoo2\obj\Debug\netcoreapp3.1\zoo2.csproj.CoreCompileInputs.cache
+F:\visualc#\ass\zoo2\obj\Debug\netcoreapp3.1\zoo2.dll
+F:\visualc#\ass\zoo2\obj\Debug\netcoreapp3.1\zoo2.pdb
+F:\visualc#\ass\zoo2\obj\Debug\netcoreapp3.1\zoo2.genruntimeconfig.cache

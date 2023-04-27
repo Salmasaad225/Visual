@@ -1,0 +1,14 @@
+F:\visualc#\ass\d9\lab9\bin\Debug\netcoreapp3.1\lab9.exe
+F:\visualc#\ass\d9\lab9\bin\Debug\netcoreapp3.1\lab9.deps.json
+F:\visualc#\ass\d9\lab9\bin\Debug\netcoreapp3.1\lab9.runtimeconfig.json
+F:\visualc#\ass\d9\lab9\bin\Debug\netcoreapp3.1\lab9.runtimeconfig.dev.json
+F:\visualc#\ass\d9\lab9\bin\Debug\netcoreapp3.1\lab9.dll
+F:\visualc#\ass\d9\lab9\bin\Debug\netcoreapp3.1\lab9.pdb
+F:\visualc#\ass\d9\lab9\obj\Debug\netcoreapp3.1\lab9.csproj.AssemblyReference.cache
+F:\visualc#\ass\d9\lab9\obj\Debug\netcoreapp3.1\lab9.GeneratedMSBuildEditorConfig.editorconfig
+F:\visualc#\ass\d9\lab9\obj\Debug\netcoreapp3.1\lab9.AssemblyInfoInputs.cache
+F:\visualc#\ass\d9\lab9\obj\Debug\netcoreapp3.1\lab9.AssemblyInfo.cs
+F:\visualc#\ass\d9\lab9\obj\Debug\netcoreapp3.1\lab9.csproj.CoreCompileInputs.cache
+F:\visualc#\ass\d9\lab9\obj\Debug\netcoreapp3.1\lab9.dll
+F:\visualc#\ass\d9\lab9\obj\Debug\netcoreapp3.1\lab9.pdb
+F:\visualc#\ass\d9\lab9\obj\Debug\netcoreapp3.1\lab9.genruntimeconfig.cache
