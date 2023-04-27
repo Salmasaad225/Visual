@@ -1,0 +1,10 @@
+F:\visualc#\ass\d2 form\3\form 3\bin\Debug\form 3.exe.config
+F:\visualc#\ass\d2 form\3\form 3\bin\Debug\form 3.exe
+F:\visualc#\ass\d2 form\3\form 3\bin\Debug\form 3.pdb
+F:\visualc#\ass\d2 form\3\form 3\obj\Debug\form 3.csproj.AssemblyReference.cache
+F:\visualc#\ass\d2 form\3\form 3\obj\Debug\form_3.Form1.resources
+F:\visualc#\ass\d2 form\3\form 3\obj\Debug\form_3.Properties.Resources.resources
+F:\visualc#\ass\d2 form\3\form 3\obj\Debug\form 3.csproj.GenerateResource.cache
+F:\visualc#\ass\d2 form\3\form 3\obj\Debug\form 3.csproj.CoreCompileInputs.cache
+F:\visualc#\ass\d2 form\3\form 3\obj\Debug\form 3.exe
+F:\visualc#\ass\d2 form\3\form 3\obj\Debug\form 3.pdb

@@ -1,0 +1,10 @@
+F:\visualc#\ass\d2 form\lab22 fform\bin\Debug\lab22 fform.exe.config
+F:\visualc#\ass\d2 form\lab22 fform\bin\Debug\lab22 fform.exe
+F:\visualc#\ass\d2 form\lab22 fform\bin\Debug\lab22 fform.pdb
+F:\visualc#\ass\d2 form\lab22 fform\obj\Debug\lab22 fform.csproj.AssemblyReference.cache
+F:\visualc#\ass\d2 form\lab22 fform\obj\Debug\lab22_fform.Form1.resources
+F:\visualc#\ass\d2 form\lab22 fform\obj\Debug\lab22_fform.Properties.Resources.resources
+F:\visualc#\ass\d2 form\lab22 fform\obj\Debug\lab22 fform.csproj.GenerateResource.cache
+F:\visualc#\ass\d2 form\lab22 fform\obj\Debug\lab22 fform.csproj.CoreCompileInputs.cache
+F:\visualc#\ass\d2 form\lab22 fform\obj\Debug\lab22 fform.exe
+F:\visualc#\ass\d2 form\lab22 fform\obj\Debug\lab22 fform.pdb
