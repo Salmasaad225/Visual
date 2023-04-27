@@ -1,0 +1,11 @@
+F:\visualc#\ass\d3 form\lab 3 w-f\bin\Debug\lab 3 w-f.exe.config
+F:\visualc#\ass\d3 form\lab 3 w-f\bin\Debug\lab 3 w-f.exe
+F:\visualc#\ass\d3 form\lab 3 w-f\bin\Debug\lab 3 w-f.pdb
+F:\visualc#\ass\d3 form\lab 3 w-f\obj\Debug\lab 3 w-f.csproj.AssemblyReference.cache
+F:\visualc#\ass\d3 form\lab 3 w-f\obj\Debug\lab_3_w_f.Form1.resources
+F:\visualc#\ass\d3 form\lab 3 w-f\obj\Debug\lab_3_w_f.Form2.resources
+F:\visualc#\ass\d3 form\lab 3 w-f\obj\Debug\lab_3_w_f.Properties.Resources.resources
+F:\visualc#\ass\d3 form\lab 3 w-f\obj\Debug\lab 3 w-f.csproj.GenerateResource.cache
+F:\visualc#\ass\d3 form\lab 3 w-f\obj\Debug\lab 3 w-f.csproj.CoreCompileInputs.cache
+F:\visualc#\ass\d3 form\lab 3 w-f\obj\Debug\lab 3 w-f.exe
+F:\visualc#\ass\d3 form\lab 3 w-f\obj\Debug\lab 3 w-f.pdb
